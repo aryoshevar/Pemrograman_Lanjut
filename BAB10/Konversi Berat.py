@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 13 16:52:14 2021
-@author: Muhammad_Arssy
-"""
 from tkinter import *
 
 # Create a GUI window
