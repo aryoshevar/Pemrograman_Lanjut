@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 13 16:52:14 2021
-@author: Muhammad_Arssy
-"""
-# calculator using Tkinter
-# import everything from tkinter module
 from tkinter import *
 
 # globally declare the expression variable
